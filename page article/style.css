@@ -1,0 +1,11 @@
+body {
+  margin-top: 50px;
+}
+
+modal-body {
+  padding-right: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
